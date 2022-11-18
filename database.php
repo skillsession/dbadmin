@@ -15,7 +15,7 @@
     }
 </style>
 <?php
-//DOES IT WORK IN JIRA THOUGH??
+
 require_once 'dbconfig.php';
 
 $conn;
